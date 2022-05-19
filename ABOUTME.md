@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning WEB DEV @oclock.io
 - 💞️ I’m looking to collaborate on AWESOME PROJECTS!
 - 💻 I'm currently on Level 3 (Level 1-10, 10 being the master coder)
-- 📫 How to reach me: row.vee@gmail.com
+- 📫 How to reach me: roviefortier@gmail.com
 - 📄 My CV: https://bit.ly/39DIkrC
 
 <!---
