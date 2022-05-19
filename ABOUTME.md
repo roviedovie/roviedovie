@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AWESOME PROJECTS!
 - 💻 I'm currently on Level 3 (Level 1-10, 10 being the master coder)
 - 📫 How to reach me: row.vee@gmail.com
-- My CV: https://bit.ly/3EVuFI4
+- 📄 My CV: https://bit.ly/39DIkrC
 
 <!---
 roviedovie/roviedovie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
